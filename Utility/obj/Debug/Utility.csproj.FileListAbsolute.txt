@@ -1,0 +1,6 @@
+C:\NFBC\Toll\Utility\Utility\bin\Debug\Utility.dll
+C:\NFBC\Toll\Utility\Utility\bin\Debug\Utility.pdb
+C:\NFBC\Toll\Utility\Utility\bin\Debug\System.Collections.Immutable.dll
+C:\NFBC\Toll\Utility\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\NFBC\Toll\Utility\Utility\obj\Debug\Utility.dll
+C:\NFBC\Toll\Utility\Utility\obj\Debug\Utility.pdb
